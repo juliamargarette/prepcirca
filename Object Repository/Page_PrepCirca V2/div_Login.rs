@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0c874b42-abfb-4d14-b8dc-8761547deba7</webElementGuid>
+      <webElementGuid>53a1c46d-07eb-4792-aab8-488d9dc43e11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Login </value>
-      <webElementGuid>a455633c-25fb-4689-91aa-4fd03079725f</webElementGuid>
+      <webElementGuid>02adc66f-15b9-4b9c-8514-586f7c9a6b80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;bg-login&quot;]/div[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col gap-8 items-center h-screen justify-center p-4&quot;]/div[2]/form[1]/div[@class=&quot;mt-5 text-center intro-x xl:mt-8 xl:text-left&quot;]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 gap-4&quot;]/div[@class=&quot;lg:col-span-2&quot;]/button[@class=&quot;transition duration-200 border shadow-sm inline-flex items-center justify-center rounded-md font-medium cursor-pointer focus:ring-4 focus:ring-primary focus:ring-opacity-20 focus-visible:outline-none dark:focus:ring-slate-700 dark:focus:ring-opacity-50 [&amp;:hover:not(:disabled)]:bg-opacity-90 [&amp;:hover:not(:disabled)]:border-opacity-90 [&amp;:not(button)]:text-center disabled:opacity-70 disabled:cursor-not-allowed button-primary border-[#346edd] text-white dark:border-primary w-full px-4 py-3&quot;]/div[1]</value>
-      <webElementGuid>f723f319-ea5d-4350-bcf8-f0a9a564a791</webElementGuid>
+      <webElementGuid>e763b0c5-a7c8-42b5-8a52-3894da328f57</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div/div[2]/div[2]/form/div[3]/div/div/button/div</value>
-      <webElementGuid>4e12fc60-b219-4037-abdd-a10fc42e34a6</webElementGuid>
+      <webElementGuid>bfe9da8a-c21d-468c-bf8c-e17f36040e1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=' Sign in with Apple'])[1]/preceding::div[9]</value>
-      <webElementGuid>10c64710-4c13-4989-a370-60bc3b3956e8</webElementGuid>
+      <webElementGuid>dba60663-5fce-474a-8a55-ef084b6d1cf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>ce4d7eba-47db-41b5-ad2e-cb8329dfe323</webElementGuid>
+      <webElementGuid>307c8349-e3fe-4778-a64c-95e2bc6f025b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/div</value>
-      <webElementGuid>a4e4d8c9-989b-4daf-88ac-85c1eec9b21a</webElementGuid>
+      <webElementGuid>3093f1a2-27ea-4270-b27b-42f33c0f955e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Login ' or . = ' Login ')]</value>
-      <webElementGuid>e4b8743a-13ae-4ab8-81e1-5077eda08125</webElementGuid>
+      <webElementGuid>a219d515-432d-432f-8931-b38afe5f26e7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

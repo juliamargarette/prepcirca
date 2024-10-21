@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add teacher to class</description>
+   <name>Add Teacher</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a2f58ce1-6930-45f2-88d0-8e9425f08f4e</testCaseGuid>
+</TestCaseEntity>

@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7ad5c585-187d-4de6-aa32-7bc3250fd85d</webElementGuid>
+      <webElementGuid>1451bcdc-9d93-4e12-90a7-589d0dd4bc81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>disabled:bg-slate-100 disabled:cursor-not-allowed dark:disabled:bg-darkmode-800/50 dark:disabled:border-transparent [&amp;[readonly]]:bg-slate-100 [&amp;[readonly]]:cursor-not-allowed [&amp;[readonly]]:dark:bg-darkmode-800/50 [&amp;[readonly]]:dark:border-transparent transition duration-200 ease-in-out w-full text-sm border-slate-200 shadow-sm rounded-md placeholder:text-slate-400/90 focus:ring-4 focus:ring-primary focus:ring-opacity-20 focus:border-primary focus:border-opacity-40 dark:bg-darkmode-800 dark:border-transparent dark:focus:ring-slate-700 dark:focus:ring-opacity-50 dark:placeholder:text-slate-500/80 block px-4 py-3 mt-4 intro-x min-w-full xl:min-w-[350px]</value>
-      <webElementGuid>e5461893-44d6-45c7-aa1a-25f2f5c0f476</webElementGuid>
+      <webElementGuid>80d28da9-e671-4649-b396-d9f212c7d72f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>77ebd7d5-7059-4d31-8627-3cdadeda5f58</webElementGuid>
+      <webElementGuid>e2ba1d49-0b26-4681-b1e4-5bc4df5ee639</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>7e97d4bd-2754-4872-9358-0b09c6c92c14</webElementGuid>
+      <webElementGuid>53cb77a1-f4d2-4a95-ac89-dc388232b623</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>c93cfaa0-132d-4384-9c25-1277ebe54d9c</webElementGuid>
+      <webElementGuid>fabe5695-7e48-4319-b8f2-872155fcab3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;bg-login&quot;]/div[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col gap-8 items-center h-screen justify-center p-4&quot;]/div[2]/form[1]/div[@class=&quot;intro-x&quot;]/input[@class=&quot;disabled:bg-slate-100 disabled:cursor-not-allowed dark:disabled:bg-darkmode-800/50 dark:disabled:border-transparent [&amp;[readonly]]:bg-slate-100 [&amp;[readonly]]:cursor-not-allowed [&amp;[readonly]]:dark:bg-darkmode-800/50 [&amp;[readonly]]:dark:border-transparent transition duration-200 ease-in-out w-full text-sm border-slate-200 shadow-sm rounded-md placeholder:text-slate-400/90 focus:ring-4 focus:ring-primary focus:ring-opacity-20 focus:border-primary focus:border-opacity-40 dark:bg-darkmode-800 dark:border-transparent dark:focus:ring-slate-700 dark:focus:ring-opacity-50 dark:placeholder:text-slate-500/80 block px-4 py-3 mt-4 intro-x min-w-full xl:min-w-[350px]&quot;]</value>
-      <webElementGuid>e0bf0290-ae57-440f-be39-8946a716ffbf</webElementGuid>
+      <webElementGuid>a1cd94ec-234d-49c9-9311-6660ea1f8413</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='password']</value>
-      <webElementGuid>cf8788ba-7adf-4126-8838-cbd33448e761</webElementGuid>
+      <webElementGuid>2c3613c6-f928-4158-b2cd-7fdaf8d81936</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div/div[2]/div[2]/form/div/input[2]</value>
-      <webElementGuid>a6a657af-1d79-4a8a-afdd-6a8e7f2ebeca</webElementGuid>
+      <webElementGuid>85aa0aaf-e3f6-4b1f-a679-84b16898dc6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[2]</value>
-      <webElementGuid>bff826fa-bd0e-4ce8-814f-668de2674900</webElementGuid>
+      <webElementGuid>0f878a8b-7769-44a4-8064-5212d58937b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>8b5558d4-74aa-421d-b1aa-76a07f958b59</webElementGuid>
+      <webElementGuid>3bbf45bb-7f25-450c-97ea-cb9a194564f6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

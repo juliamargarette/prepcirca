@@ -1,0 +1,34 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login,Chrome 129.0.0.0,,,22-10-2024 02:52:23,22-10-2024 02:53:10,47.603s,PASSED
+,,,,,,,
+Test Cases/Login/Admin,Chrome 129.0.0.0,,,22-10-2024 02:52:23,22-10-2024 02:52:38,15.017s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,22-10-2024 02:52:23,22-10-2024 02:52:24,1.529s,PASSED
+"navigateToUrl(""https://dev.web.prepcirca.com/login"")",Chrome 129.0.0.0,,,22-10-2024 02:52:24,22-10-2024 02:52:30,5.492s,PASSED
+"setText(findTestObject(""Object Repository/Page_PrepCirca V2/input_Login_username""), ""lia@dashurai.com"")",Chrome 129.0.0.0,,,22-10-2024 02:52:30,22-10-2024 02:52:37,7.034s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_PrepCirca V2/input_Login_password""), ""xRkMkEGOFPJvN61N/sX4qQ=="")",Chrome 129.0.0.0,,,22-10-2024 02:52:37,22-10-2024 02:52:37,0.353s,PASSED
+"click(findTestObject(""Object Repository/Page_PrepCirca V2/button_Login""))",Chrome 129.0.0.0,,,22-10-2024 02:52:37,22-10-2024 02:52:38,0.306s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,22-10-2024 02:52:38,22-10-2024 02:52:38,0.173s,PASSED
+,,,,,,,
+Test Cases/Login/Guardian,Chrome 129.0.0.0,,,22-10-2024 02:52:38,22-10-2024 02:52:54,15.992s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,22-10-2024 02:52:38,22-10-2024 02:52:39,0.669s,PASSED
+"navigateToUrl(""https://dev.web.prepcirca.com/login"")",Chrome 129.0.0.0,,,22-10-2024 02:52:39,22-10-2024 02:52:44,5.115s,PASSED
+"setText(findTestObject(""Object Repository/Page_PrepCirca V2/input_Login_username""), ""j.ross@example.com"")",Chrome 129.0.0.0,,,22-10-2024 02:52:44,22-10-2024 02:52:48,4.100s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_PrepCirca V2/input_Login_password""), ""xRkMkEGOFPJvN61N/sX4qQ=="")",Chrome 129.0.0.0,,,22-10-2024 02:52:48,22-10-2024 02:52:48,0.328s,PASSED
+"click(findTestObject(""Object Repository/Page_PrepCirca V2/button_Login""))",Chrome 129.0.0.0,,,22-10-2024 02:52:48,22-10-2024 02:52:54,5.562s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,22-10-2024 02:52:54,22-10-2024 02:52:54,0.164s,PASSED
+,,,,,,,
+Test Cases/Login/Teacher,Chrome 129.0.0.0,,,22-10-2024 02:52:54,22-10-2024 02:53:04,10.416s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,22-10-2024 02:52:54,22-10-2024 02:52:55,0.745s,PASSED
+"navigateToUrl(""https://dev.web.prepcirca.com/login"")",Chrome 129.0.0.0,,,22-10-2024 02:52:55,22-10-2024 02:53:00,5.312s,PASSED
+"setText(findTestObject(""Object Repository/Page_PrepCirca V2/input_Login_username""), ""brettking@example.net"")",Chrome 129.0.0.0,,,22-10-2024 02:53:00,22-10-2024 02:53:03,3.512s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_PrepCirca V2/input_Login_password""), ""xRkMkEGOFPJvN61N/sX4qQ=="")",Chrome 129.0.0.0,,,22-10-2024 02:53:03,22-10-2024 02:53:04,0.332s,PASSED
+"click(findTestObject(""Object Repository/Page_PrepCirca V2/div_Login""))",Chrome 129.0.0.0,,,22-10-2024 02:53:04,22-10-2024 02:53:04,0.280s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,22-10-2024 02:53:04,22-10-2024 02:53:04,0.189s,PASSED
+,,,,,,,
+Test Cases/Login/Student,Chrome 129.0.0.0,,,22-10-2024 02:53:04,22-10-2024 02:53:10,6.083s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,22-10-2024 02:53:04,22-10-2024 02:53:05,0.758s,PASSED
+"navigateToUrl(""https://dev.web.prepcirca.com/login"")",Chrome 129.0.0.0,,,22-10-2024 02:53:05,22-10-2024 02:53:09,3.463s,PASSED
+"setText(findTestObject(""Object Repository/Page_PrepCirca V2/input_Login_username""), ""nbaldwin@example.org"")",Chrome 129.0.0.0,,,22-10-2024 02:53:09,22-10-2024 02:53:10,0.968s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_PrepCirca V2/input_Login_password""), ""xRkMkEGOFPJvN61N/sX4qQ=="")",Chrome 129.0.0.0,,,22-10-2024 02:53:10,22-10-2024 02:53:10,0.360s,PASSED
+"click(findTestObject(""Object Repository/Page_PrepCirca V2/div_Login""))",Chrome 129.0.0.0,,,22-10-2024 02:53:10,22-10-2024 02:53:10,0.298s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,22-10-2024 02:53:10,22-10-2024 02:53:10,0.168s,PASSED

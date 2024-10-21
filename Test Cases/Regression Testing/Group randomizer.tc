@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Use randomizer and pick a group</description>
+   <name>Group randomizer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab4a2c1a-7a26-4212-96d8-c5c02c7880b2</testCaseGuid>
+</TestCaseEntity>

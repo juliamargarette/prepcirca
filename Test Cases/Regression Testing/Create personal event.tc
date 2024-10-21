@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Calendar - personal event</description>
+   <name>Create personal event</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>713d85c7-d033-4736-bf68-439f6aa8aee0</testCaseGuid>
+</TestCaseEntity>

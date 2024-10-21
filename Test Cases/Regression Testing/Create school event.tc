@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Calendar - school event</description>
+   <name>Create school event</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b8743044-ffd4-4e3b-8dda-473d9bee3258</testCaseGuid>
+</TestCaseEntity>

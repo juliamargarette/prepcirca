@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteCollectionEntity>
    <description></description>
-   <name>User login</name>
+   <name>PC_ST_10212024</name>
    <tag></tag>
    <delayBetweenInstances>0</delayBetweenInstances>
    <executionMode>PARALLEL</executionMode>
@@ -16,6 +16,16 @@
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/Login/Login</testSuiteEntity>
+      </TestSuiteRunConfiguration>
+      <TestSuiteRunConfiguration>
+         <configuration>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </configuration>
+         <runEnabled>true</runEnabled>
+         <testSuiteEntity>Test Suites/Regression Testing/PC_RT_10212024</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

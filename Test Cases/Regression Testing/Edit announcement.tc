@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit a posted announcement</description>
+   <name>Edit announcement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>263ab22d-f96f-47b9-aaa4-b349fac3ae4b</testCaseGuid>
+</TestCaseEntity>

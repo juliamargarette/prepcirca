@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Change font color to black</description>
+   <name>Awards</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2935fbc8-327e-4fea-8b28-8b43377c562a</testCaseGuid>
+</TestCaseEntity>

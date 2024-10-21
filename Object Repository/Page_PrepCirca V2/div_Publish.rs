@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Publish</name>
+   <tag></tag>
+   <elementGuidId>39d3f0fc-0f02-4da7-854e-0fe16c8e3e6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-panel-36']/div[2]/div/div[3]/div/button[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3a32d820-6f59-4831-90b5-6ee279993b7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Publish </value>
+      <webElementGuid>bbe00cb8-2392-4e15-a235-ba546154dd9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-36&quot;)/div[@class=&quot;px-5&quot;]/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;flex justify-end&quot;]/div[@class=&quot;flex flex-row gap-3&quot;]/button[@class=&quot;transition duration-200 border shadow-sm inline-flex items-center justify-center py-2 rounded-md font-medium cursor-pointer focus:ring-4 focus:ring-primary focus:ring-opacity-20 focus-visible:outline-none dark:focus:ring-slate-700 dark:focus:ring-opacity-50 [&amp;:hover:not(:disabled)]:bg-opacity-90 [&amp;:hover:not(:disabled)]:border-opacity-90 [&amp;:not(button)]:text-center disabled:opacity-70 disabled:cursor-not-allowed button-primary border-[#346edd] text-white dark:border-primary px-4&quot;]/div[1]</value>
+      <webElementGuid>32f627ea-a343-4353-84d2-6f31cfae5094</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-36']/div[2]/div/div[3]/div/button[2]/div</value>
+      <webElementGuid>655b6ed5-690c-449a-a3e9-c3ff64857d46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[5]</value>
+      <webElementGuid>02707f62-5c4c-4311-9588-4a723b55da02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Publish']/parent::*</value>
+      <webElementGuid>51b7cb40-4626-4cd9-bd36-7c19c50e78d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/div</value>
+      <webElementGuid>c5db21bc-ad2a-49f2-97e8-a441a46f7ed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Publish ' or . = ' Publish ')]</value>
+      <webElementGuid>109a34f1-2296-44dd-8676-7b4a241538fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

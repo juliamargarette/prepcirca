@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AnnouncementAddREGRESSION TEST - Sample_4deee4</name>
+   <tag></tag>
+   <elementGuidId>321f12b1-7d9d-475b-8d85-596580c10e97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pt-4.overflow-y-auto.h-screen.scrollbar-hidden</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dec71671-139b-44b4-be8e-5b5a92d6022c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pt-4 overflow-y-auto h-screen scrollbar-hidden</value>
+      <webElementGuid>dd4711e5-d199-4456-97e5-c3017dfd8a7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AnnouncementAddREGRESSION TEST - Sample announcementRT_PC_1021 - This is a sample announcementOctober 18, 2024 12:15 AM</value>
+      <webElementGuid>432d5f81-68a1-4417-addd-29011c655123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;rubick px-5 sm:px-6 py-5 before:content-[''] before:bg-gradient-to-b before:from-theme-1 before:to-theme-2 dark:before:from-darkmode-800 dark:before:to-darkmode-800 before:fixed before:inset-0 before:z-[-1] bg-[#153163]&quot;]/div[@class=&quot;mt-[4.7rem] flex md:mt-0&quot;]/div[@class=&quot;md:max-w-auto min-h-screen min-w-0 max-w-full flex-1 rounded-[30px] px-4 pb-10 before:block before:h-px before:w-full before:content-[''] dark:bg-darkmode-700 md:px-[22px]&quot;]/div[@class=&quot;pt-4 overflow-y-auto h-screen scrollbar-hidden&quot;]</value>
+      <webElementGuid>727c855b-7148-4600-85e9-80164c96563c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>da28374a-3162-4fed-a5a3-2ab616645508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Announcements'])[1]/following::div[9]</value>
+      <webElementGuid>680629ad-73ed-4136-91fe-49b5c9364f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABCD'])[1]/following::div[10]</value>
+      <webElementGuid>f1337a31-caae-4e09-b5cf-1f996ec81f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>927f5511-faa5-427c-8e03-5fcfc9020f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AnnouncementAddREGRESSION TEST - Sample announcementRT_PC_1021 - This is a sample announcementOctober 18, 2024 12:15 AM' or . = 'AnnouncementAddREGRESSION TEST - Sample announcementRT_PC_1021 - This is a sample announcementOctober 18, 2024 12:15 AM')]</value>
+      <webElementGuid>89723133-0d2f-4447-8bf8-7ff8f7147ca2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

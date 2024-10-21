@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Grade 5ABCD</name>
+   <tag></tag>
+   <elementGuidId>49bace0b-1f87-4841-aff3-97bba5e568eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-between.truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>36a4e372-a93e-4e86-a5dd-ed25d644e77b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between truncate</value>
+      <webElementGuid>4a3fed05-1f68-498c-9038-e24ab3a7e685</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grade 5ABCD</value>
+      <webElementGuid>b833ac9f-b286-4912-98fa-00e504665506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;rubick px-5 sm:px-6 py-5 before:content-[''] before:bg-gradient-to-b before:from-theme-1 before:to-theme-2 dark:before:from-darkmode-800 dark:before:to-darkmode-800 before:fixed before:inset-0 before:z-[-1] bg-[#153163]&quot;]/div[@class=&quot;mt-[4.7rem] flex md:mt-0&quot;]/div[@class=&quot;md:max-w-auto min-h-screen min-w-0 max-w-full flex-1 rounded-[30px] px-4 pb-10 before:block before:h-px before:w-full before:content-[''] dark:bg-darkmode-700 md:px-[22px]&quot;]/div[@class=&quot;pt-4 overflow-y-auto h-screen scrollbar-hidden&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[2]/div[@class=&quot;flex flex-col gap-3&quot;]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-3 xl:grid-cols-5 gap-3&quot;]/div[@class=&quot;p-5 cursor-pointer card-default-class&quot;]/div[@class=&quot;flex justify-between truncate&quot;]</value>
+      <webElementGuid>061ca835-f0a5-40f6-b54c-83857f2efdb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>f1e7ea5e-316c-4e0c-894b-e5a4c8da51c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Classes'])[3]/following::div[21]</value>
+      <webElementGuid>78656e69-c9e3-45af-9018-2953390326ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grade 3'])[1]/preceding::div[8]</value>
+      <webElementGuid>8ac7f88b-d9bc-4ba3-a21b-813aca1c1e64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>90f91422-6567-45f7-8f12-0b72c5c60ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Grade 5ABCD' or . = 'Grade 5ABCD')]</value>
+      <webElementGuid>0f3521a2-8173-4026-b01f-f98e7cc4c786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grade 1'])[1]/preceding::div[8]</value>
+      <webElementGuid>97077aa4-b978-4241-b895-78459b106d6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

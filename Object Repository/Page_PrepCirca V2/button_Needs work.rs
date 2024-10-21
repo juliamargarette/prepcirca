@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Needs work</name>
+   <tag></tag>
+   <elementGuidId>aebdb3de-3789-4a16-989a-5c482c82eed7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='headlessui-tabs-tab-33']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5262ce52-d30b-48b3-abdf-fc52367f2ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer block appearance-none px-5 border dark:text-slate-400 border-b-2 border-transparent dark:border-transparent w-full py-2 text-primary</value>
+      <webElementGuid>bf429bb0-6ede-4d2f-972c-bc8f6c609262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Needs work</value>
+      <webElementGuid>c44871dc-8a7b-4250-a463-f4ee3f7e80c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-tabs-tab-33&quot;)/button[@class=&quot;cursor-pointer block appearance-none px-5 border dark:text-slate-400 border-b-2 border-transparent dark:border-transparent w-full py-2 text-primary&quot;]</value>
+      <webElementGuid>08ebcb3e-0343-4fa5-a800-d1cc742c2e5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='headlessui-tabs-tab-33']/button</value>
+      <webElementGuid>b6affa50-feed-4109-93f4-6d9b9380624f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/preceding::button[1]</value>
+      <webElementGuid>30d85735-4978-4d01-969c-eda8caa7fe63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Negative award'])[1]/preceding::button[1]</value>
+      <webElementGuid>c2cef525-031b-4e94-afa7-ec05b34a7674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Needs work']/parent::*</value>
+      <webElementGuid>8b875723-69dc-433d-9921-0146f7b6e6e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/button</value>
+      <webElementGuid>f41acf51-20ae-4489-9b52-03e780b60723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Needs work' or . = 'Needs work')]</value>
+      <webElementGuid>e118f253-708c-484a-a3f8-1f30fa084a79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

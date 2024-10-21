@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit post in Moments</description>
+   <name>Edit Post</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46e169c1-e021-4d28-87fc-6ee2f2bba088</testCaseGuid>
+</TestCaseEntity>

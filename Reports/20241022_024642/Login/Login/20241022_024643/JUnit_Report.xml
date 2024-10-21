@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login" time="40.734" tests="4" failures="0" errors="0">
+   <testsuite name="Login" tests="4" failures="0" errors="0" time="40.734" skipped="0" timestamp="22-10-2024T02:46:49" hostname="anonu - LIA" id="Test Suites/Login/Login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\anonu\\git\\prepcirca\\Reports\\20241022_024642\\Login\\Login\\20241022_024643"/>
+         <property name="logFiles" value="C:\\Users\\anonu\\git\\prepcirca\\Reports\\20241022_024642\\Login\\Login\\20241022_024643\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="anonu - LIA"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.254.104"/>
+         <property name="sessionId" value="e987312c714759a850550cab1796ec96"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Login/Admin" time="15.631" classname="Test Cases/Login/Admin" status="PASSED">
+         <system-out><![CDATA[22-10-2024T02:46:50 - [TEST_CASE][PASSED] - Test Cases/Login/Admin: Test Cases/Login/Admin
+
+22-10-2024T02:46:50 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-10-2024T02:46:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-10-2024T02:46:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-10-2024T02:46:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-10-2024T02:46:52 - [TEST_STEP][PASSED] - navigateToUrl("https://dev.web.prepcirca.com/login"): Navigate to 'https://dev.web.prepcirca.com/login' successfully
+
+22-10-2024T02:47:03 - [MESSAGE][PASSED] - Navigate to 'https://dev.web.prepcirca.com/login' successfully
+
+22-10-2024T02:47:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_PrepCirca V2/input_Login_username"), "lia@dashurai.com"): Text 'lia@dashurai.com' is set on object 'Object Repository/Page_PrepCirca V2/input_Login_username'
+
+22-10-2024T02:47:04 - [MESSAGE][PASSED] - Text 'lia@dashurai.com' is set on object 'Object Repository/Page_PrepCirca V2/input_Login_username'
+
+22-10-2024T02:47:04 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_PrepCirca V2/input_Login_password"), "xRkMkEGOFPJvN61N/sX4qQ=="): Text ****** has been set on object 'Object Repository/Page_PrepCirca V2/input_Login_password'
+
+22-10-2024T02:47:04 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_PrepCirca V2/input_Login_password'
+
+22-10-2024T02:47:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PrepCirca V2/button_Login")): Object: 'Object Repository/Page_PrepCirca V2/button_Login' is clicked on
+
+22-10-2024T02:47:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PrepCirca V2/button_Login' is clicked on
+
+22-10-2024T02:47:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-10-2024T02:47:05 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login/Guardian" time="7.613" classname="Test Cases/Login/Guardian" status="PASSED">
+         <system-out><![CDATA[22-10-2024T02:47:05 - [TEST_CASE][PASSED] - Test Cases/Login/Guardian: Test Cases/Login/Guardian
+
+22-10-2024T02:47:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-10-2024T02:47:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-10-2024T02:47:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-10-2024T02:47:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-10-2024T02:47:06 - [TEST_STEP][PASSED] - navigateToUrl("https://dev.web.prepcirca.com/login"): Navigate to 'https://dev.web.prepcirca.com/login' successfully
+
+22-10-2024T02:47:11 - [MESSAGE][PASSED] - Navigate to 'https://dev.web.prepcirca.com/login' successfully
+
+22-10-2024T02:47:11 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_PrepCirca V2/input_Login_username"), "j.ross@example.com"): Text 'j.ross@example.com' is set on object 'Object Repository/Page_PrepCirca V2/input_Login_username'
+
+22-10-2024T02:47:12 - [MESSAGE][PASSED] - Text 'j.ross@example.com' is set on object 'Object Repository/Page_PrepCirca V2/input_Login_username'
+
+22-10-2024T02:47:12 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_PrepCirca V2/input_Login_password"), "xRkMkEGOFPJvN61N/sX4qQ=="): Text ****** has been set on object 'Object Repository/Page_PrepCirca V2/input_Login_password'
+
+22-10-2024T02:47:12 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_PrepCirca V2/input_Login_password'
+
+22-10-2024T02:47:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PrepCirca V2/button_Login")): Object: 'Object Repository/Page_PrepCirca V2/button_Login' is clicked on
+
+22-10-2024T02:47:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PrepCirca V2/button_Login' is clicked on
+
+22-10-2024T02:47:13 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-10-2024T02:47:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login/Teacher" time="10.392" classname="Test Cases/Login/Teacher" status="PASSED">
+         <system-out><![CDATA[22-10-2024T02:47:13 - [TEST_CASE][PASSED] - Test Cases/Login/Teacher: Test Cases/Login/Teacher
+
+22-10-2024T02:47:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-10-2024T02:47:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-10-2024T02:47:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-10-2024T02:47:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-10-2024T02:47:14 - [TEST_STEP][PASSED] - navigateToUrl("https://dev.web.prepcirca.com/login"): Navigate to 'https://dev.web.prepcirca.com/login' successfully
+
+22-10-2024T02:47:21 - [MESSAGE][PASSED] - Navigate to 'https://dev.web.prepcirca.com/login' successfully
+
+22-10-2024T02:47:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_PrepCirca V2/input_Login_username"), "brettking@example.net"): Text 'brettking@example.net' is set on object 'Object Repository/Page_PrepCirca V2/input_Login_username'
+
+22-10-2024T02:47:22 - [MESSAGE][PASSED] - Text 'brettking@example.net' is set on object 'Object Repository/Page_PrepCirca V2/input_Login_username'
+
+22-10-2024T02:47:22 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_PrepCirca V2/input_Login_password"), "xRkMkEGOFPJvN61N/sX4qQ=="): Text ****** has been set on object 'Object Repository/Page_PrepCirca V2/input_Login_password'
+
+22-10-2024T02:47:23 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_PrepCirca V2/input_Login_password'
+
+22-10-2024T02:47:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PrepCirca V2/div_Login")): Object: 'Object Repository/Page_PrepCirca V2/div_Login' is clicked on
+
+22-10-2024T02:47:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PrepCirca V2/div_Login' is clicked on
+
+22-10-2024T02:47:23 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-10-2024T02:47:23 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login/Student" time="6.858" classname="Test Cases/Login/Student" status="PASSED">
+         <system-out><![CDATA[22-10-2024T02:47:23 - [TEST_CASE][PASSED] - Test Cases/Login/Student: Test Cases/Login/Student
+
+22-10-2024T02:47:23 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-10-2024T02:47:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-10-2024T02:47:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-10-2024T02:47:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-10-2024T02:47:24 - [TEST_STEP][PASSED] - navigateToUrl("https://dev.web.prepcirca.com/login"): Navigate to 'https://dev.web.prepcirca.com/login' successfully
+
+22-10-2024T02:47:28 - [MESSAGE][PASSED] - Navigate to 'https://dev.web.prepcirca.com/login' successfully
+
+22-10-2024T02:47:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_PrepCirca V2/input_Login_username"), "nbaldwin@example.org"): Text 'nbaldwin@example.org' is set on object 'Object Repository/Page_PrepCirca V2/input_Login_username'
+
+22-10-2024T02:47:29 - [MESSAGE][PASSED] - Text 'nbaldwin@example.org' is set on object 'Object Repository/Page_PrepCirca V2/input_Login_username'
+
+22-10-2024T02:47:29 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_PrepCirca V2/input_Login_password"), "xRkMkEGOFPJvN61N/sX4qQ=="): Text ****** has been set on object 'Object Repository/Page_PrepCirca V2/input_Login_password'
+
+22-10-2024T02:47:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_PrepCirca V2/input_Login_password'
+
+22-10-2024T02:47:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_PrepCirca V2/div_Login")): Object: 'Object Repository/Page_PrepCirca V2/div_Login' is clicked on
+
+22-10-2024T02:47:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PrepCirca V2/div_Login' is clicked on
+
+22-10-2024T02:47:30 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+22-10-2024T02:47:30 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[22-10-2024T02:46:49 - [TEST_SUITE][PASSED] - Login: Test Cases/Login/Student]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Calendar</name>
+   <tag></tag>
+   <elementGuidId>34ff0e81-2767-433e-8ed2-12e3bf27c57d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(5) > a.cursor-pointer.side-menu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/nav/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>60839d22-a506-4b35-b393-216e606b5772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer side-menu</value>
+      <webElementGuid>85b6b5aa-4c34-45f7-9556-467ae6957162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/calendar</value>
+      <webElementGuid>f977dfc8-629c-40a0-840d-c87589da5f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Calendar </value>
+      <webElementGuid>03288cf2-997c-4b69-b00e-42cf36e2ec37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;rubick px-5 sm:px-6 py-5 before:content-[''] before:bg-gradient-to-b before:from-theme-1 before:to-theme-2 dark:before:from-darkmode-800 dark:before:to-darkmode-800 before:fixed before:inset-0 before:z-[-1] bg-[#153163]&quot;]/div[@class=&quot;mt-[4.7rem] flex md:mt-0&quot;]/nav[@class=&quot;side-nav hidden w-[120px] overflow-x-hidden pb-16 pr-5 md:block xl:w-[230px]&quot;]/ul[1]/li[5]/a[@class=&quot;cursor-pointer side-menu&quot;]</value>
+      <webElementGuid>3b8ce52e-f6fa-4eef-8d12-10aa4dc0d9e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/nav/ul/li[5]/a</value>
+      <webElementGuid>fd51fa24-2ef4-46a5-bedb-8fe7b42a5505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subject'])[2]/following::a[1]</value>
+      <webElementGuid>4081f0b3-d360-4970-a2b6-0d1b18bc0794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teachers'])[2]/following::a[2]</value>
+      <webElementGuid>5a3e9014-98e6-4af8-9f3d-a619abff90fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived Classes'])[2]/preceding::a[1]</value>
+      <webElementGuid>3f58901f-9ff4-4824-937b-4f32948dd7ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/calendar')])[2]</value>
+      <webElementGuid>f352d97b-6f31-43d5-8f59-342802afd8cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[5]/a</value>
+      <webElementGuid>91372d83-50ad-4b2b-a0fb-e83e12e0f428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/calendar' and (text() = 'Calendar ' or . = 'Calendar ')]</value>
+      <webElementGuid>c9160eb8-67c5-451d-af66-a52c7991fa56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

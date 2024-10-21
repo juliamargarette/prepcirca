@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if Needs Work award is being added to Positive awards tab</description>
+   <name>Add needs work award</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba101b65-21fb-403b-a07c-a3332db51087</testCaseGuid>
+</TestCaseEntity>

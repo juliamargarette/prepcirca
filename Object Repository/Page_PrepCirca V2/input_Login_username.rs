@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>07486200-aabd-48a9-8e08-f27b37e919c2</webElementGuid>
+      <webElementGuid>454621db-6e22-45ba-b7aa-11a1f7db5256</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>disabled:bg-slate-100 disabled:cursor-not-allowed dark:disabled:bg-darkmode-800/50 dark:disabled:border-transparent [&amp;[readonly]]:bg-slate-100 [&amp;[readonly]]:cursor-not-allowed [&amp;[readonly]]:dark:bg-darkmode-800/50 [&amp;[readonly]]:dark:border-transparent transition duration-200 ease-in-out w-full text-sm border-slate-200 shadow-sm rounded-md placeholder:text-slate-400/90 focus:ring-4 focus:ring-primary focus:ring-opacity-20 focus:border-primary focus:border-opacity-40 dark:bg-darkmode-800 dark:border-transparent dark:focus:ring-slate-700 dark:focus:ring-opacity-50 dark:placeholder:text-slate-500/80 block px-4 py-3 intro-x min-w-full xl:min-w-[350px]</value>
-      <webElementGuid>adc00fe7-f71d-47e2-afea-1cfbfbf92f0b</webElementGuid>
+      <webElementGuid>bf27a4f4-cc11-402c-bac3-892c129e54a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>6988b535-a51e-4e26-b24e-f0d3cbd92527</webElementGuid>
+      <webElementGuid>4bd2277f-aeb0-4da9-a2a4-1ca956ff97b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Email</value>
-      <webElementGuid>5addac31-a124-44ca-8f3d-6e487a591d7a</webElementGuid>
+      <webElementGuid>fff89d98-1d07-494b-8645-529ee6ca993f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>name</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>8b59eb84-0e09-4b25-bec7-c1398a7ad76d</webElementGuid>
+      <webElementGuid>b2a4b1f8-1c16-4db3-a75d-4ef05aa6b51a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;bg-login&quot;]/div[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col gap-8 items-center h-screen justify-center p-4&quot;]/div[2]/form[1]/div[@class=&quot;intro-x&quot;]/input[@class=&quot;disabled:bg-slate-100 disabled:cursor-not-allowed dark:disabled:bg-darkmode-800/50 dark:disabled:border-transparent [&amp;[readonly]]:bg-slate-100 [&amp;[readonly]]:cursor-not-allowed [&amp;[readonly]]:dark:bg-darkmode-800/50 [&amp;[readonly]]:dark:border-transparent transition duration-200 ease-in-out w-full text-sm border-slate-200 shadow-sm rounded-md placeholder:text-slate-400/90 focus:ring-4 focus:ring-primary focus:ring-opacity-20 focus:border-primary focus:border-opacity-40 dark:bg-darkmode-800 dark:border-transparent dark:focus:ring-slate-700 dark:focus:ring-opacity-50 dark:placeholder:text-slate-500/80 block px-4 py-3 intro-x min-w-full xl:min-w-[350px]&quot;]</value>
-      <webElementGuid>b83af44a-81a1-413d-86b1-0d4d04c7e82a</webElementGuid>
+      <webElementGuid>92fa5beb-4699-4b01-b016-d41c200addea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='username']</value>
-      <webElementGuid>f54b6ecc-1a73-4a90-b908-50e2960d9040</webElementGuid>
+      <webElementGuid>4afe0c1f-b861-4fb4-af64-4b40e881dab0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div/div[2]/div[2]/form/div/input</value>
-      <webElementGuid>73d8e0b6-7f57-4cf8-8b5f-9c08a7b467f8</webElementGuid>
+      <webElementGuid>69df9594-a94c-4d98-a0da-b77d2b710e80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>707d930f-5d49-44d4-8303-a46af1ad3dbc</webElementGuid>
+      <webElementGuid>be70e253-0a95-484f-93ac-d68f31ab6ec8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Email' and @name = 'username']</value>
-      <webElementGuid>2cb9f8e5-1796-475c-890f-077ca387fc5c</webElementGuid>
+      <webElementGuid>b1683dc8-3bd9-4a2b-a5fe-99f778325152</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Calendar - holiday event</description>
+   <name>Create holiday event</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2fae0f7-f7aa-45a4-b5fc-52abe0c28351</testCaseGuid>
+</TestCaseEntity>
